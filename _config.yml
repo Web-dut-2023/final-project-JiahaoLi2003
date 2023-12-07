@@ -6,13 +6,13 @@ email: jiahaoli0301@gmail.com
 description: "一以贯之的努力，不可懈怠的人生."
 keyword: "JiahaoLi, JiahaoLi Blog, 李嘉豪的博客, 李嘉豪"
 url: "http://JiahaoLi2003.github.io"          
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/JiahaoLi2003/JiahaoLi2003.github.io.git" # you code repository
+baseurl: ""      
+github_repo: "https://github.com/JiahaoLi2003/JiahaoLi2003.github.io.git" 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true                           
 sidebar-about-description: "一以贯之的努力，不可懈怠的人生"
-sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.jpg      
 
 
 
